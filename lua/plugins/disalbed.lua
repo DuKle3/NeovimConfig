@@ -1,3 +1,3 @@
 return {
-  --{ "Dhanus3133/LeetBuddy.nvim", enabled = false },
+  { "Dhanus3133/LeetBuddy.nvim", enabled = false },
 }
